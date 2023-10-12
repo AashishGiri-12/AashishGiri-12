@@ -1,6 +1,6 @@
 ### Hi there, I'm Aashish Giri
 
-## I'm a Developer and Student!!
+## I'm a QA Automation Engineer
 
 - 🌱 I’m currently learning web development.
 - 🌱 I’m currently trying to create my own website as well.
